@@ -1,0 +1,9 @@
+@import url(../../assets/fonts/Figtree-VariableFont_wght.ttf);
+
+* {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Figtree';
+    color: #111111;
+}
